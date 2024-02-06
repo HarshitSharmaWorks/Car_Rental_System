@@ -1,4 +1,4 @@
 # Car_Rental_System
-# Developed a user-friendly application, leading to a 40% increase in user satisfaction.
+# Developed a user-friendly application for renting the cars
 # Implemented using C++, OOPs and Agile Methodology.
 
